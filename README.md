@@ -1,3 +1,3 @@
 # Project Details
 
-Created a Tic-Tac-Toe game using HTML, CSS & JavaScript.
+This is a simple 2-player Tic Tac Toe game built using HTML, CSS, and JavaScript.
